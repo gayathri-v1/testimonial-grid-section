@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/gayathri-v1/testimonial-grid-section.git
+- Live Site URL: https://gayathri-v1.github.io/testimonial-grid-section/
 
 ## My process
 
