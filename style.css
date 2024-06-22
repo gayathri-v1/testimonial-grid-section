@@ -9,6 +9,7 @@
 body{
     margin: auto;
     vertical-align: middle;
+    background-color: hsl(210, 46%, 95%);
 }
 .container{
     background-color: hsl(210, 46%, 95%);
